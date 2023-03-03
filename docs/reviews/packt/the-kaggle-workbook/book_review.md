@@ -12,7 +12,7 @@
 
 :point_right: *Think of **TKB** as the course work and **TKWB** as the hands-on lab-work*.
 
-## **The Kaggle Workbook** -- *What's in it?*
+## :gift: **The Kaggle Workbook** -- *What's in it?*
 
 **Authors**: :man::woman:
 
@@ -37,7 +37,7 @@ The Kaggle Workbook (TKWB), offers hands-on knowledge through a meticulously dis
 - **Chapter 4**:
   *NLP Competition – Google Quest Q&A Labeling*
 
-**Value Addition**:
+**Value Addition**: :moneybag: 📈
 
 :gift: The authors' perspective, tactics and insight into previously successful top-ranking Kaggle solutions of these Kaggle Challenges also presents an impeccably important perspective for todays' Data Scientists -- *learn how to learn*.
 
@@ -49,15 +49,15 @@ The Kaggle Workbook (TKWB), offers hands-on knowledge through a meticulously dis
 
 :sparkles: Wishing you Happy Kaggling!
 
-A special thanks to Packt for sending me the review copy of the book and Kudos to the authors of the book.
+*A special thanks to Packt for sending me the review copy of the book and Kudos to the authors of the book.*
 
-:fire: **Should you buy it?**
+## :fire: **Should you buy it?**
 
 If you are serious about learning Data Science, and not just keeping the book on your shelf to "share" photos of your Data Science / ML / AI books, then **YES**. You will learn a few things certainly. Please be respectful of the fact that writing a book takes a lot of effort and time. These Kagglers are also well-respected Data Science professionals. If the book helps you, share about it. Let's learn together.
 
 :balloon: The fact that you get a glimpse of how advanced Kagglers approach Kaggle competitions, is a priviledge, at the very least. Hope you will make good use of it. :rocket:
 
-## References
+## :books: **References**
 
 - `[1]` The Kaggle Book (TKB): ([Amazon][_tkb_amazon], [Packt][_tkb_packt])
 - `[2]` The Kaggle Workbook (TKWB): ([Amazon][_tkwb_amazon], [Packt][_tkwb_packt])
@@ -80,4 +80,4 @@ Social Media Posts:
 
 ---
 
-Copyright Sugato Ray, 2023
+Copyright &copy; Sugato Ray, 2023
