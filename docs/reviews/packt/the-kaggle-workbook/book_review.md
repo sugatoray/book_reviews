@@ -16,7 +16,7 @@
 
 **Authors**: :man::woman:
 
-This time Konrad and Luca have joined hands with three more successful and knowledgeable Kagglers -- *Pietro*, *Laura* and *Gabriel*.
+This time Konrad and Luca have joined hands with three more successful and accomplished Kagglers -- *Pietro*, *Laura* and *Gabriel*.
 
 - Konrad Banachewicz
 - Luca Massaron
