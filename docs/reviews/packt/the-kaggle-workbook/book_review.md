@@ -64,11 +64,17 @@ If you are serious about learning Data Science, and not just keeping the book on
 
 Social Media Posts:
 
-- LinkedIn posts on TKB [[3]][_tkb_lnkd_1], [[4]][_tkb_lnkd_2]
+- LinkedIn posts on TKB [[3]][_tkb_lnkd_1], [[4]][_tkb_lnkd_2].
+- LinkedIn post on TKWB [[5]][_tkwb_lnkd] book review.
+- Substack Post on TKWB [[6]][_tkwb_substack] book review.
+
+[_tkwb_substack]: https://sugatoray.substack.com/p/the-kaggle-workbook-review
 
 [_tkb_lnkd_1]: https://www.linkedin.com/posts/sugatoray_the-kaggle-book-data-analysis-and-machine-activity-6922632295904411648-1-ep?utm_source=share&utm_medium=member_desktop
 
 [_tkb_lnkd_2]: https://www.linkedin.com/posts/sugatoray_packt-kaggle-book-activity-6964339052904943616-tsci?utm_source=share&utm_medium=member_desktop
+
+[_tkwb_lnkd]: https://www.linkedin.com/posts/sugatoray_the-kaggle-workbook-review-activity-7037268153231446017-LNxd?utm_source=share&utm_medium=member_desktop
 
 [_tkb_amazon]: https://www.amazon.com/Data-Analysis-Machine-Learning-Kaggle/dp/1801817472/
 
